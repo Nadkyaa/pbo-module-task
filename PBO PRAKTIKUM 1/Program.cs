@@ -62,7 +62,7 @@ public class Singa : Mamalia
 
     public string Mengaum()
     {
-        return "KAPAL LAWD"
+        return "KAPAL LAWD";
     }
     public string Infolengkap()
     {
@@ -208,11 +208,11 @@ public class KebunBinatang
 //            Console.WriteLine(ular.Merayap());
 //        }
 //    }
-class Program
-{
-    static void Main(string[] args)
-    {
-        Reptil reptil = new Buaya("Buaya", 8, 4.2);
-        Console.WriteLine(reptil.Suara());
-    }
-}
+// class Program
+// {
+//     static void Main(string[] args)
+//     {
+//         Reptil reptil = new Buaya("Buaya", 8, 4.2);
+//         Console.WriteLine(reptil.Suara());
+//     }
+// }
