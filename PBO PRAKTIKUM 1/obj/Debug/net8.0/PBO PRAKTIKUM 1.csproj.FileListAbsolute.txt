@@ -1,0 +1,14 @@
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\bin\Debug\net8.0\PBO PRAKTIKUM 1.exe
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\bin\Debug\net8.0\PBO PRAKTIKUM 1.deps.json
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\bin\Debug\net8.0\PBO PRAKTIKUM 1.runtimeconfig.json
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\bin\Debug\net8.0\PBO PRAKTIKUM 1.dll
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\bin\Debug\net8.0\PBO PRAKTIKUM 1.pdb
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\PBO PRAKTIKUM 1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\PBO PRAKTIKUM 1.AssemblyInfoInputs.cache
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\PBO PRAKTIKUM 1.AssemblyInfo.cs
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\PBO PRAKTIKUM 1.csproj.CoreCompileInputs.cache
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\PBO PRAKTIKUM 1.dll
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\refint\PBO PRAKTIKUM 1.dll
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\PBO PRAKTIKUM 1.pdb
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\PBO PRAKTIKUM 1.genruntimeconfig.cache
+E:\Kuliah UNEJ'24 2\PBO\PBO PRAKTIKUM 1\obj\Debug\net8.0\ref\PBO PRAKTIKUM 1.dll
